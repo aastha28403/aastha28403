@@ -149,13 +149,13 @@ I build production-ready systems ranging from **React frontends** and **FastAPI 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aasthashridhar/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/aastha28403)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](aastha28403)
 
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:aasthashridhar37@gmail.com)
 
 </div>
 
