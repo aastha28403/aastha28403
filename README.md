@@ -26,18 +26,6 @@ I build production-ready systems ranging from **React frontends** and **FastAPI 
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-| Experience | Projects | AI Systems | Technologies |
-|---|---|---|---|
-| 2+ Years | 6+ Live Projects | 5+ AI Systems | 20+ Technologies |
-
-</div>
-
----
-
 # 🧠 Core Expertise
 
 - RAG & LLM Pipelines
